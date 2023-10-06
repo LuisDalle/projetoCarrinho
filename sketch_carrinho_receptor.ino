@@ -66,7 +66,7 @@ void esquerda() {
   digitalWrite(9, HIGH); 
 }
 void direita() {
-    digitalWrite(7, LOW); // ATRAS DIREITA 
+  digitalWrite(7, LOW); // ATRAS DIREITA 
   digitalWrite(6, HIGH);
 
   digitalWrite(5, HIGH); // ATRAS ESQUERDA
